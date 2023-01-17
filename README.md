@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/tha_nixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tha_nixo" height="30" width="40" /></a>
 <a href="https://instagram.com/tha_nixo_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tha_nixo_tv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tha_nixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tha_nixo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tha_nixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tha_nixo" height="30" width="40" /></a>
 <a href="https://discord.gg/skC9z79Xwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skC9z79Xwf" height="30" width="40" /></a>
 </p>
 
