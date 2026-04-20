@@ -1,26 +1,163 @@
-<p align="center">
-    <img src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
-</p align="center">
-<h1 align="center">Hello World I'm Nixo!</h1>
-<h3 align="center">A BotDeveloper🤖 and a Streamer🔴</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **a discord bot**
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Nixo;%F0%9F%8E%AE+Gamer+%7C+%F0%9F%94%B4+Streamer+%7C+%F0%9F%96%A5%EF%B8%8F+ICT+Tech;%F0%9F%8F%A0+Self-Hosting+Enthusiast;%F0%9F%9A%80+Building+cool+stuff+since+day+one" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **all Programming language**
+<br/>
 
-- 💬 Ask me about **my Youtube and Twitch channel!**
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tha_nixo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tha_nixo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tha_nixo_tv)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/skC9z79Xwf)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tha_nixo)
 
-- 📫 How to reach me:
-     - **Discord: Nixo#9787**
-     - **Telegram: https://t.me/Tha_Nixo**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tha_nixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tha_nixo" height="30" width="40" /></a>
-<a href="https://instagram.com/tha_nixo_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tha_nixo_tv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@tha_nixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tha_nixo" height="30" width="40" /></a>
-<a href="https://discord.gg/skC9z79Xwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skC9z79Xwf" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
+
+```yaml
+name: Nicola
+tag: "@tha_nixo"
+role: ICT Technician by day, Streamer & Gamer by night
+location: Verona, Italy 🇮🇹
+currently:
+  - streaming on TikTok Live (Minecraft 1.8.9 on Lunar Client)
+  - managing a self-hosted homelab (Docker, Caddy, Authelia & more)
+  - working as ICT tech at Bellafrut
+fun_facts:
+  - plays piano by ear (Nuvole Bianche, River Flows in You)
+  - volleyball 3x/week
+  - trap music enjoyer 🎵
+```
+
+---
+
+## 🔴 Streaming & Gaming
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎮 **Main Games** | Minecraft, Fortnite, Horror (Visage) |
+| 📡 **Platform** | TikTok Live |
+| 🖥️ **Setup** | Ryzen 9 7900X · RX 9070 · RTX 3050 (encoder) · 270Hz |
+| 🎯 **Minecraft** | 1.8.9 PvP on Lunar Client |
+| 🌐 **MC Server** | Custom Paper server w/ AuthMe & FastLogin |
+
+</div>
+
+> 🔥 **Come hang out!** I stream regularly on [TikTok Live](https://tiktok.com/@tha_nixo) — chill vibes, PvP sessions, and random chaos guaranteed.
+
+---
+
+## 🏠 Homelab — `hydrogenomb`
+
+I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 24.04 and Docker.
+
+<details>
+<summary>📦 <b>Click to see my stack</b></summary>
+<br/>
+
+| Category | Services |
+|---|---|
+| 🔒 **Auth & Security** | Authelia · Fail2ban · Wazuh |
+| 🌐 **Networking** | Caddy (reverse proxy) · Cloudflare DDNS · Tailscale |
+| 📊 **Monitoring** | Grafana · Prometheus · Uptime Kuma · cAdvisor · Dozzle |
+| 🎮 **Gaming** | Minecraft (Paper via Pterodactyl) |
+| 📸 **Media** | Immich |
+| 🛠️ **Tools** | n8n · Portainer · Code Server · IT-Tools · Zipline |
+| 🗂️ **Management** | Homarr · Dockge · Watchtower |
+| 📚 **Docs** | MkDocs (docs.nixospace.it) |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Platforms & Daily Drivers**
+
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace Tha-Nixo with your actual GitHub username -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tha-Nixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-Nixo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tha-Nixo&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tha-Nixo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- To enable this, set up the snake workflow in your profile repo -->
+<!-- See: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tha-Nixo/Tha-Nixo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tha-Nixo/Tha-Nixo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tha-Nixo/Tha-Nixo/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tha-Nixo&style=for-the-badge&color=A177FE" alt="Profile Views"/>
+
+**Thanks for stopping by!** 💜
+
+*If you like what I do, consider following me on [TikTok](https://tiktok.com/@tha_nixo) or joining my [Discord](https://discord.gg/skC9z79Xwf)!*
+
+</div>
