@@ -21,11 +21,11 @@
 name: Nicola
 tag: "@tha_nixo"
 role: ICT Technician by day, Streamer & Gamer by night
-location: Verona, Italy 🇮🇹
+location: Italy 🇮🇹
 currently:
   - streaming on TikTok Live (Minecraft 1.8.9 on Lunar Client)
   - managing a self-hosted homelab (Docker, Caddy, Authelia & more)
-  - working as ICT tech at Bellafrut
+  - working as ICT tech
 fun_facts:
   - plays piano by ear (Nuvole Bianche, River Flows in You)
   - volleyball 3x/week
