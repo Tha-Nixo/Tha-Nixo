@@ -41,14 +41,14 @@ fun_facts:
 | | |
 |---|---|
 | 🎮 **Main Games** | Minecraft, Fortnite, Horror (Visage) |
-| 📡 **Platform** | TikTok Live |
+| 📡 **Platform** |  Live |
 | 🖥️ **Setup** | Ryzen 9 7900X · RX 9070 · RTX 3050 (encoder) · 270Hz |
 | 🎯 **Minecraft** | 1.8.9 PvP on Lunar Client |
 | 🌐 **MC Server** | Custom Paper server w/ AuthMe & FastLogin |
 
 </div>
 
-> 🔥 **Come hang out!** I stream regularly on [TikTok Live](https://tiktok.com/@tha_nixo) — chill vibes, PvP sessions, and random chaos guaranteed.
+> 🔥 **Come hang out!** I stream regularly on [TikTok Live](https://tiktok.com/@thanixontiktok) — chill vibes, PvP sessions, and random chaos guaranteed.
 
 ---
 
@@ -158,6 +158,6 @@ I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 2
 
 **Thanks for stopping by!** 💜
 
-*If you like what I do, consider following me on [TikTok](https://tiktok.com/@tha_nixo) or joining my [Discord](https://discord.gg/skC9z79Xwf)!*
+*If you like what I do, consider following me on [TikTok](https://tiktok.com/@thanixontiktok) or joining my [Discord](https://discord.gg/skC9z79Xwf)!*
 
 </div>
