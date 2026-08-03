@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Nixo;%F0%9F%8E%AE+Gamer+%7C+%F0%9F%94%B4+Streamer+%7C+%F0%9F%96%A5%EF%B8%8F+ICT+Tech;%F0%9F%8F%A0+Self-Hosting+Enthusiast;%F0%9F%9A%80+Building+cool+stuff+since+day+one" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Nixo;%F0%9F%96%A5%EF%B8%8F+ICT+Tech+%7C+%F0%9F%8F%A0+Homelabber;%F0%9F%A4%96+I+automate+everything+I+touch;%F0%9F%8E%AE+Gamer+%7C+%F0%9F%94%B4+TikTok+Streamer" alt="Typing SVG" />
 
 <br/>
 
@@ -20,17 +20,59 @@
 ```yaml
 name: Nicola
 tag: "@tha_nixo"
-role: ICT Technician by day, Streamer & Gamer by night
+role: ICT Technician by day, builder & streamer by night
 location: Italy 🇮🇹
 currently:
+  - running a 30+ service self-hosted homelab (Docker, Caddy, Authelia, Wazuh)
+  - building AI agents & automation bots on top of my own infra
   - streaming on TikTok Live (Minecraft 1.8.9 on Lunar Client)
-  - managing a self-hosted homelab (Docker, Caddy, Authelia & more)
-  - working as ICT tech
+philosophy: "if I have to do it twice, I automate it"
 fun_facts:
   - plays piano by ear (Nuvole Bianche, River Flows in You)
   - volleyball 3x/week
   - trap music enjoyer 🎵
 ```
+
+---
+
+## 🚀 What I'm Building
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 **MERLINO** | Personal "Jarvis" — orchestrates headless AI coding agents with a hard `PreToolUse` safety hook | Python · Claude Code SDK · systemd |
+| 🛡️ **Server hardening** | Full-server security audit → 34 fixes applied: secret rotation, Wazuh SIEM, Fail2ban, Authelia SSO on every subdomain | Wazuh · Authelia · UFW · Bash |
+| 📈 **Trading & prediction bots** | Golden-Cross BTC/USDT bot and a Polymarket 5m copy-trader, both with two-factor live gates and paper-trade mode | Python · systemd · CCXT |
+| 🧰 **techtool.site** | 50 self-hosted dev tools in one static site (CSP, HSTS, hardened headers) | JS · Caddy |
+| 📊 **DevSync Hub** | Live homelab dashboard wired to real service state — no fake data | React · SSR |
+| 🕸️ **FileGraph** | Live interactive directory-graph explorer for the server | Python · D3 |
+| 🛒 **amazon-ram-monitor** | DDR5 price tracker across EU stores, with anti-soft-block handling | Python · SQLite |
+| 🏆 **supercell-stats** | Clash Royale / Supercell stats site behind a fixed-IP API proxy | Next.js · RoyaleAPI |
+| 🤖 **Telegram bots** | 4 bots for server alerts, media requests & daily infra reports | Python · python-telegram-bot |
+
+> Most of this runs on my own hardware, behind my own reverse proxy, monitored by my own dashboards. 🏠
+
+---
+
+## 🏠 Homelab — `hydrogenomb`
+
+Intel i5-6500T · Ubuntu 24.04 · Docker · everything behind Caddy + Authelia, LAN-only where it should be.
+
+<details>
+<summary>📦 <b>Click to see my stack</b></summary>
+<br/>
+
+| Category | Services |
+|---|---|
+| 🔒 **Auth & Security** | Authelia (SSO/2FA) · Fail2ban · Wazuh SIEM · UFW |
+| 🌐 **Networking & DNS** | Caddy (reverse proxy + ACME) · AdGuard Home · Cloudflare DDNS · Tailscale |
+| 📊 **Monitoring** | Grafana (custom dashboards) · Prometheus · Uptime Kuma · Scrutiny (SMART) · cAdvisor · Dozzle |
+| 🎬 **Media** | *arr stack (Radarr/Sonarr/Prowlarr) · Jellyfin w/ Intel QSV transcoding · Decluttarr · Immich |
+| 🎮 **Gaming** | Minecraft Paper server via Pterodactyl (AuthMe + FastLogin) |
+| 🤖 **Automation** | n8n · custom Telegram bots · nightly health-report cron |
+| 🛠️ **Tools** | Portainer · Dockge · Code Server · IT-Tools · Zipline · Watchtower |
+| 📚 **Docs** | MkDocs — auto-generated service docs (docs.nixospace.it) |
+
+</details>
 
 ---
 
@@ -41,7 +83,7 @@ fun_facts:
 | | |
 |---|---|
 | 🎮 **Main Games** | Minecraft, Fortnite, Horror (Visage) |
-| 📡 **Platform** |  Live |
+| 📡 **Platform** | TikTok Live |
 | 🖥️ **Setup** | Ryzen 9 7900X · RX 9070 · RTX 3050 (encoder) · 270Hz |
 | 🎯 **Minecraft** | 1.8.9 PvP on Lunar Client |
 | 🌐 **MC Server** | Custom Paper server w/ AuthMe & FastLogin |
@@ -52,29 +94,6 @@ fun_facts:
 
 ---
 
-## 🏠 Homelab — `hydrogenomb`
-
-I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 24.04 and Docker.
-
-<details>
-<summary>📦 <b>Click to see my stack</b></summary>
-<br/>
-
-| Category | Services |
-|---|---|
-| 🔒 **Auth & Security** | Authelia · Fail2ban · Wazuh |
-| 🌐 **Networking** | Caddy (reverse proxy) · Cloudflare DDNS · Tailscale |
-| 📊 **Monitoring** | Grafana · Prometheus · Uptime Kuma · cAdvisor · Dozzle |
-| 🎮 **Gaming** | Minecraft (Paper via Pterodactyl) |
-| 📸 **Media** | Immich |
-| 🛠️ **Tools** | n8n · Portainer · Code Server · IT-Tools · Zipline |
-| 🗂️ **Management** | Homarr · Dockge · Watchtower |
-| 📚 **Docs** | MkDocs (docs.nixospace.it) |
-
-</details>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -82,15 +101,16 @@ I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 2
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Infrastructure & Tools**
+**Infrastructure & Ops**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -99,9 +119,18 @@ I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 2
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Platforms & Daily Drivers**
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-30D475?style=flat-square&logo=systemd&logoColor=white)
+
+**Daily Drivers**
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
@@ -118,18 +147,15 @@ I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 2
 
 <div align="center">
 
-<!-- Replace Tha-Nixo with your actual GitHub username -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=Tha-Nixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-Nixo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tha-Nixo&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Tha-Nixo&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tha-Nixo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF" alt="Activity Graph" width="100%"/>
 
 </div>
@@ -140,8 +166,7 @@ I self-host everything I can. My homelab runs on an Intel i5-6500T with Ubuntu 2
 
 <div align="center">
 
-<!-- To enable this, set up the snake workflow in your profile repo -->
-<!-- See: https://github.com/Platane/snk -->
+<!-- Requires the Platane/snk workflow in this repo, output pushed to the `output` branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tha-Nixo/Tha-Nixo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tha-Nixo/Tha-Nixo/output/github-snake.svg" />
