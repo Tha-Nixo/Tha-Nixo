@@ -42,6 +42,13 @@ Everything I build ends up on the same box: a **10-year-old Intel i5-6500T** run
 | 🏆 **supercell-stats** | Clash Royale / Brawl Stars stats site, routed through a fixed-IP proxy because Supercell pins API keys to an IP. |
 | 🤖 **Telegram bots** | Four of them: infra alerts, media requests, the daily server report, and a shared control bot. |
 
+> Most of these live in private repos — they hold live credentials for my own infrastructure. Everything below is public and browsable.
+
+### 📂 Public repos
+
+- **[ThePasswordCrack](https://github.com/Tha-Nixo/ThePasswordCrack)** — Chrome extension that auto-solves [The Password Game](https://neal.fun/password-game/): a constraint solver, a runtime memory spy and a network interceptor, **29 of 35 rules** beaten. `TypeScript` · `Manifest V3`
+- **[ClaudeCodeManager](https://github.com/Tha-Nixo/ClaudeCodeManager)** — A desktop compositor for Claude Code sessions on Windows. Tiling and floating panes, each with its own terminal and `claude` process, drag-to-rearrange, fuzzy project picker, session resume. `TypeScript` · `Electron`
+
 > Nearly all of it runs on my own hardware, behind my own reverse proxy, watched by my own dashboards — including the GitHub stats cards further down this page.
 
 ---
