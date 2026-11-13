@@ -39,7 +39,7 @@ Everything I build ends up on the same box: a **10-year-old Intel i5-6500T** run
 | 🕸️ **FileGraph** | Live 3D WebGL map of an entire server filesystem: **139,000 nodes rendered in 38 draw calls**, via server-side layout, a binary wire protocol (2.9 MB instead of 46 MB of JSON) and GPU instancing. |
 | 📊 **DevSync Hub** | Homelab dashboard wired to real service state — no mock data, no decorative uptime numbers. |
 | 🛒 **amazon-ram-monitor** | DDR5 price tracker polling EU storefronts hundreds of times a week, with detection and back-off for every shape of soft-block Amazon throws at it. |
-| 🏆 **[supercell-stats](https://github.com/Tha-Nixo/SUPERCELL-STATS)** | Clash Royale / Brawl Stars stats site — live at **[supercellstats.com](https://supercellstats.com)** — routed through a fixed-IP proxy because Supercell pins API keys to an IP. |
+| 🏆 **[supercellstats.com](https://supercellstats.com)** | Clash Royale / Brawl Stars stats site — player lookup, battle history and deck analysis — routed through a fixed-IP proxy because Supercell pins API keys to an IP. |
 | 🤖 **Telegram bots** | Four of them: infra alerts, media requests, the daily server report, and a shared control bot. |
 
 > Most of these live in private repos — they hold live credentials for my own infrastructure. Everything below is public and browsable.
@@ -48,7 +48,6 @@ Everything I build ends up on the same box: a **10-year-old Intel i5-6500T** run
 
 - **[ThePasswordCrack](https://github.com/Tha-Nixo/ThePasswordCrack)** — Chrome extension that auto-solves [The Password Game](https://neal.fun/password-game/): a constraint solver, a runtime memory spy and a network interceptor, **29 of 35 rules** beaten. `TypeScript` · `Manifest V3`
 - **[ClaudeCodeManager](https://github.com/Tha-Nixo/ClaudeCodeManager)** — A desktop compositor for Claude Code sessions on Windows. Tiling and floating panes, each with its own terminal and `claude` process, drag-to-rearrange, fuzzy project picker, session resume. `TypeScript` · `Electron`
-- **[SUPERCELL-STATS](https://github.com/Tha-Nixo/SUPERCELL-STATS)** — The stats site above, in full: player lookup, battle history and deck analysis for Clash Royale and Brawl Stars. Live at [supercellstats.com](https://supercellstats.com). `TypeScript` · `Next.js`
 
 > Nearly all of it runs on my own hardware, behind my own reverse proxy, watched by my own dashboards — including the GitHub stats cards further down this page.
 
@@ -157,9 +156,9 @@ Everything I build ends up on the same box: a **10-year-old Intel i5-6500T** run
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tha-Nixo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF" alt="Activity Graph" width="100%"/>
+<img src="https://stats.nixospace.it/api?username=Tha-Nixo&card=graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF" alt="Activity Graph" width="100%"/>
 
-<sub>☝️ The top two cards are rendered by my own homelab, not by the public instance. Fitting, I think.</sub>
+<sub>☝️ The stats cards and activity graph are rendered by my own homelab, not by the public instances. Fitting, I think.</sub>
 
 </div>
 
